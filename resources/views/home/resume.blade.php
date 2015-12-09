@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Piscean Résumé')
+@section('title', 'Piscean R&eacute;sum&eacute;')
 
 @section('content')
 
@@ -37,7 +37,7 @@
                 <li>
                     <h5>Spear Education</h5>
                     <h6><a href="http://www.speareducation.com" target="_blank">www.speareducation.com</a> • April 2013 – Present</h6>
-                    <p>Worked on various aspects of several company websites.  Wrote controller actions and methods.  Wrote raw SQL queries.  Modeled data in ORM-like Zend syntax.  Performed a wide variety of back-end and some front-end tasks.  Sites include:</p>
+                    <p>Worked on various aspects of several company websites.  Wrote controller actions and methods.  Wrote raw SQL queries.  Modeled data in ORM-like Zend syntax.  Performed a wide variety of back-end and some front-end tasks.  Responsible for debugging and refining senior developers' code.  Sites include:</p>
                     <ul>
                         <li>Spear Education, company flagship product.  Developed various enhancements throughout the rest of the Zend Framework 1.12 website. Developed order tracking system for dental learning modules.  Wrote various administrative components to manage consumer-facing assets.  Wrote HTML5/CSS3 markup.  Most code worked synchronously and asynchronously.  Heavy jQuery usage throughout site.  Helped write parts of content management system. Skinned with Twitter Bootstrap.</li>
                         <li>Sole developer of company intranet, writing raw SQL queries, constructing object-oriented methods and modeling data. Skinned intranet with Twitter Bootstrap.  Integrated into rest of website.</li>

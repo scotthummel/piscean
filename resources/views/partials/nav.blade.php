@@ -28,7 +28,7 @@
                                     <a href="/portfolio">Portfolio</a>
                                 </li>
                                 <li>
-                                    <a href="/resume">Résumé</a>
+                                    <a href="/resume">R&eacute;sum&eacute;</a>
                                 </li>
                                 <li>
                                     <a href="/testimonials">Testimonials</a>
