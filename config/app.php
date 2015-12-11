@@ -144,9 +144,9 @@ return [
         App\Providers\AuthServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
-
-
         Illuminate\Html\HtmlServiceProvider::class,
+        Bugsnag\BugsnagLaravel\BugsnagLaravelServiceProvider::class,
+
         App\Providers\FlashServiceProvider::class
 
     ],
@@ -200,7 +200,11 @@ return [
 
         'Form'      => Illuminate\Html\FormFacade::class,
         'HTML'      => Illuminate\Html\HtmlFacade::class,
-        'Flash'     => App\Scotthummel\Notifications\Flash::class
+        'Bugsnag'   => Bugsnag\BugsnagLaravel\BugsnagFacade::class,
+
+        'Flash'     => App\Scotthummel\Notifications\Flash::class,
+
+
 
     ],
 
