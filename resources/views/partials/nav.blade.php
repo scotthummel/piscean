@@ -60,9 +60,9 @@
 
                         <a href="http://www.linkedin.com/in/scottehummel"><img class="pull-right social-media" src="/images/linkedin.gif" alt="LinkedIn" /></a>
 
-                        <a href="http://www.twitter.com/sh_interactive"><img class="pull-right social-media" src="/images/twitter.png" alt="Twitter" /></a>
+                        <a href="http://www.twitter.com/piscean_digital"><img class="pull-right social-media" src="/images/twitter.png" alt="Twitter" /></a>
 
-                        <a href="http://www.facebook.com/sh.interactive"><img class="pull-right social-media" src="/images/facebook.png" alt="Facebook" /></a>
+                        <a href="http://www.facebook.com/piscean.digital"><img class="pull-right social-media" src="/images/facebook.png" alt="Facebook" /></a>
 
                     </div>
 
