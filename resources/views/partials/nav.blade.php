@@ -56,13 +56,13 @@
 
                     <div class="pull-right hidden-xs">
 
-                        <a href="http://www.github.com/scotthummel"><img class="pull-right social-media" src="/images/github.png" alt="GitHub" /></a>
+                        <a href="http://www.github.com/scotthummel" target="_blank"><img class="pull-right social-media" src="/images/github.png" alt="GitHub" /></a>
 
-                        <a href="http://www.linkedin.com/in/scottehummel"><img class="pull-right social-media" src="/images/linkedin.gif" alt="LinkedIn" /></a>
+                        <a href="http://www.linkedin.com/in/scottehummel" target="_blank"><img class="pull-right social-media" src="/images/linkedin.gif" alt="LinkedIn" /></a>
 
-                        <a href="http://www.twitter.com/piscean_digital"><img class="pull-right social-media" src="/images/twitter.png" alt="Twitter" /></a>
+                        <a href="http://www.twitter.com/piscean_digital" target="_blank"><img class="pull-right social-media" src="/images/twitter.png" alt="Twitter" /></a>
 
-                        <a href="http://www.facebook.com/piscean.digital"><img class="pull-right social-media" src="/images/facebook.png" alt="Facebook" /></a>
+                        <a href="http://www.facebook.com/piscean.digital" target="_blank"><img class="pull-right social-media" src="/images/facebook.png" alt="Facebook" /></a>
 
                     </div>
 
