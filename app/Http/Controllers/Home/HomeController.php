@@ -23,6 +23,11 @@ class HomeController extends Controller
         return view('home.about');
     }
 
+    public function scott()
+    {
+        return view('home.scott');
+    }
+
     public function portfolio()
     {
         $sites = Website::all();
