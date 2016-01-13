@@ -24,7 +24,7 @@
 
         <div class="col-sm-3 hidden-xs">
 
-            <img class="img-responsive" src="{{ url('images/me.jpg') }}" alt="Scott Hummel, owner and principal, Piscean Digital" />
+            <img class="img-responsive" src="{{ url('images/me.JPG') }}" alt="Scott Hummel, owner and principal, Piscean Digital" />
 
             <p class="top20"><em>Scott Hummel, owner and principal, Piscean Digital</em></p>
 
