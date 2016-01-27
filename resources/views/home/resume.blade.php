@@ -58,11 +58,11 @@
                     </ul>
                 </li>
 
-                <li>
+                <!--<li>
                     <h5>Purple Lizard Boutique (Part-time)</h5>
                     <h6><a href="http://www.purplelizardboutique.com" target="_blank">www.purplelizardboutique.com</a> • July 2015 – Present</h6>
                     <p>Built a Paypal-driven online store for a local gift boutique in Laravel 5 (PHP/MySQL) and Twitter Bootstrap.  Site features a back-end so that boutique owners can manage the site menus and products.  Admin allows the creation, updating editing and deletion of menu items, store inventory and product photos.</p>
-                </li>
+                </li>-->
 
                 <li>
                     <h5>Lambda Phoenix Center (Part-time)</h5>
