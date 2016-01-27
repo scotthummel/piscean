@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Piscean R&eacute;sum&eacute;')
+@section('title', 'Scott Hummel\'s R&eacute;sum&eacute;')
 
 @section('content')
 
