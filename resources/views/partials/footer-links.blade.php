@@ -9,7 +9,7 @@
     <a href="/news">News</a> |
     <a href="/contact">Contact</a><br />
 
-    &copy; Piscean, {{ date('Y') }}
+    <p>&copy; Piscean Digital, {{ date('Y') }}. All rights reserved.</p>
 
     <div class="visible-xs">
 
@@ -17,7 +17,7 @@
 
         <a href="http://www.twitter.com/sh_interactive"><img class="social-media" src="/images/twitter.png" alt="Twitter" /></a>
 
-        <a href="http://www.facebook.com/sh.interactive"><img class="social-media" src="/images/facebook.png" alt="Facebook" /></a>
+        <a href="http://www.facebook.com/piscean.digital"><img class="social-media" src="/images/facebook.png" alt="Facebook" /></a>
 
     </div>
 
