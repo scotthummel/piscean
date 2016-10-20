@@ -78,10 +78,9 @@ class HomeController extends Controller
             'comments' => 'required'
         ]);
 
-
         $mailer->contact($request->only('name', 'email', 'phone', 'comments'));
 
-        Flash::success('Thank you for contacting Piscean.  We will return your email in 2-3 business days');
+        Flash::success('Thank you for contacting Piscean Digital.  We will return your email in 2-3 business days.');
 
         return redirect()->to('/');
     }
