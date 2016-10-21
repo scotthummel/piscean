@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Contact Piscean')
+@section('title', 'Contact')
 
 @section('content')
 
@@ -9,18 +9,21 @@
     <div class="row">
 
         <div class="col-sm-4">
-            <blockquote>
-                <i class="fa fa-quote-left"></i>
-                Scott is one of the smartest programmers I have ever worked with. He has a very good sense of structure and has helped me develop some of the best work I have done in my career. I highly recommend Scott as a PHP programmer.
-                <i class="fa fa-quote-right"></i>
-                <footer class="text-right">Kiel J., Universal Laser Systems</footer>
-            </blockquote>
+            <div class="well">
+                <blockquote>
+                    <i class="fa fa-quote-left"></i>
+                    Scott is one of the smartest programmers I have ever worked with. He has a very good sense of structure and has helped me develop some of the best work I have done in my career. I highly recommend Scott as a PHP programmer.
+                    <i class="fa fa-quote-right"></i>
+                    <footer class="text-right">Kiel J., Universal Laser Systems</footer>
+                </blockquote>
 
-            <blockquote>
-                <i class="fa fa-quote-left"></i>
-                Scott has great attention to detail. He was always willing to go the extra mile to make sure projects were completed on time, whether that meant staying later or coming in early. It was a great pleasure to work with Scott on the various web design projects.
-                <i class="fa fa-quote-right"></i>
-                <footer class="text-right">Adrian M., fellow student at AI</footer>
+                <blockquote>
+                    <i class="fa fa-quote-left"></i>
+                    Scott has great attention to detail. He was always willing to go the extra mile to make sure projects were completed on time, whether that meant staying later or coming in early. It was a great pleasure to work with Scott on the various web design projects.
+                    <i class="fa fa-quote-right"></i>
+                    <footer class="text-right">Adrian M., fellow student at AI</footer>
+                </blockquote>
+            </div>
         </div>
 
         <div class="col-sm-8">

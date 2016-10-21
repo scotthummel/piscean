@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Piscean | ' . $site->site_name)
+@section('title', 'Portfolio | ' . $site->site_name)
 
 @section('content')
 
