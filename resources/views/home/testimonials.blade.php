@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Testimonials From Piscean Clients')
+@section('title', 'Testimonials')
 
 @section('content')
 
