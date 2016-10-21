@@ -1,12 +1,12 @@
 @extends('layouts.master')
 
-@section('title', 'About Piscean')
+@section('title', 'About Piscean Digital')
 
 @section('content')
 
     <h2>About</h2>
 
-    <h1>About Piscean</h1>
+    <h1>About Piscean Piscean Digital</h1>
 
     <p>The company, which has operated under several different names since its inception in 2006, is the endeavor of web developer Scott Hummel.</p>
 
@@ -16,12 +16,14 @@
 
         <div class="col-sm-3 hidden-xs">
 
-            <blockquote>
-                <i class="fa fa-quote-left"></i>
-                Web design and development has been the most fulfilling career of my life, and I get to show how much I enjoy it by being good at it, but also never stopping learning to be better at it. My strength as a developer is my growth every day.
-<i class="fa fa-quote-right"></i>
-                <footer class="text-right">Scott Hummel</footer>
-            </blockquote>
+            <div class="well">
+                <blockquote>
+                    <i class="fa fa-quote-left"></i>
+                    Web design and development has been the most fulfilling career of my life, and I get to show how much I enjoy it by being good at it, but also never stopping learning to be better at it. My strength as a developer is my growth every day.
+                    <i class="fa fa-quote-right"></i>
+                    <footer class="text-right">Scott Hummel</footer>
+                </blockquote>
+            </div>
         </div>
 
         <div class="col-sm-9 col-xs-12">
@@ -35,8 +37,7 @@
             <p>At work, Scott has learned the Zend Framework and has found that his previous experience with CI and Laravel provided a solid base upon which to build his skills as a developer.  At Spear, Scott was also tasked with re-learning front-end skills.  This allowed Scott to learn the Twitter Bootstrap front-end framework for responsive design.  This will permit all projects he does to serve both desktop and mobile users.</p>
         </div>
 
+        <a href="/about/scott-hummel" class="btn btn-primary">About Scott Hummel</a>
+
     </div>
-
-    <a href="/about/scott-hummel" class="btn btn-primary">About Scott Hummel</a>
-
 @stop

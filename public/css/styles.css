@@ -879,6 +879,11 @@ header#navigation {
         text-decoration: none;
     }
 
+    #nav div.block > ul > li a.active {
+        background-color: #2e79af;
+        color: #FFF;
+    }
+
     /* icon area */
 
     ul.my-spear li {

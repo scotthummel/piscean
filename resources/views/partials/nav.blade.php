@@ -22,25 +22,25 @@
 
                             <ul class="nav-primary">
                                 <li>
-                                    <a href="/about">About</a>
+                                    <a {{ (Request::is('about')) ? 'class=active' : '' }} href="/about">About</a>
                                 </li>
                                 <li>
-                                    <a href="/portfolio">Portfolio</a>
+                                    <a {{ (Request::is('portfolio/*')) ? 'class=active' : '' }} href="/portfolio">Portfolio</a>
                                 </li>
                                 <li>
-                                    <a href="/resume">R&eacute;sum&eacute;</a>
+                                    <a {{ (Request::is('resume')) ? 'class=active' : '' }} href="/resume">R&eacute;sum&eacute;</a>
                                 </li>
                                 <li>
-                                    <a href="/testimonials">Testimonials</a>
+                                    <a {{ (Request::is('testimonials')) ? 'class=active' : '' }} href="/testimonials">Testimonials</a>
                                 </li>
                                 <!--<li>
                                     <a href="/blog">Blog</a>
                                 </li>-->
                                 <li>
-                                    <a href="/news">News</a>
+                                    <a {{ (Request::is('news')) ? 'class=active' : '' }} href="/news">News</a>
                                 </li>
                                 <li>
-                                    <a href="/contact">Contact</a>
+                                    <a {{ (Request::is('contact')) ? 'class=active' : '' }} href="/contact">Contact</a>
                                 </li>
                             </ul>
 

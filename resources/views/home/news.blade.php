@@ -6,21 +6,22 @@
 
     <h2>News</h2>
 
-    <h1>News from Piscean</h1>
+    <h1>News from Piscean Digital</h1>
 
     @foreach ($articles as $article)
 
-        <h3>{{ $article->title }}</h3>
+        <div class="well">
+            <h3>{{ $article->title }}</h3>
 
-        {!! $article->body !!}
+            {!! $article->body !!}
 
-        <div class="pull-right">
-            &mdash; Posted {{ $article->created_at->diffForHumans() }}
+            <div class="pull-right">
+                &mdash; Posted {{ $article->created_at->diffForHumans() }}
+            </div>
+
+            <br />
+
         </div>
-
-        <br />
-
-        <hr />
 
     @endforeach
 

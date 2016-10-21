@@ -6,7 +6,7 @@
 
     <h2>R&eacute;sum&eacute;</h2>
 
-    <h1>Scott Hummel • <a href="mailto:scott@scotthummel.net">scott@scotthummel.net</a> • 602.330.8090</h1><br />
+    <h1>Scott Hummel • <a href="mailto:scott@piscean.com">scott@piscean.com</a> • 602.330.8090</h1><br />
 
     <dl class="dl-horizontal">
         <dt>Objective:</dt>
