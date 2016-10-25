@@ -16,7 +16,6 @@
         <dd>Michigan State University, Bachelor of Arts, Journalism, 1983–1987.<br />
             Michigan State University, Post-Graduate work, Journalism, 1987–1988.<br />
             Art Institute of Phoenix, Web Design and Interactive Media, 2007– 2010.<br />
-            Interface Technical Training, jQuery, iOS classes, 2011–2013.
         </dd>
 
         <dt>Honors:</dt>
@@ -29,14 +28,21 @@
         </dd>
 
         <dt>Skills:</dt>
-        <dd>HTML/CSS, HTML5/CSS3, PHP/MySQL, CodeIgniter, Laravel, Zend Framework, Foundation, Twitter Bootstrap, jQuery/jQueryUI, jQueryMobile, VueJS, Redis, Google Maps, Google Places, Git, Subversion, Photoshop, Illustrator.  Proven ability to quickly become proficient in any framework, API or language.  Daily viewer of Laracasts.com.</dd>
+        <dd>HTML/CSS, HTML5/CSS3, PHP/MySQL, CodeIgniter, Laravel 4-5, Zend Framework 1, Foundation/Twitter Bootstrap, jQuery/jQueryUI, Ionic 2, SASS/LESS, jQueryMobile, VueJS, Google Maps API, Stripe, Algolia, MailChimp API, bash (comfortable at command line), NPM, Gulp, Elixir, Vagrant/Homestead, Laravel Forge, Google Places, Git/Subversion, Redis, Photoshop, Illustrator.  Proven ability to quickly become proficient in any framework, API or language.  Daily viewer of Laracasts.com.
+        </dd>
 
         <dt>Experience:</dt>
         <dd>
             <ul class="experience">
                 <li>
+                    <h5>More Active, LLC</h5>
+                    <h6><a href="http://www.moreactive.com" target="_blank">www.moreactive.com</a> • March 2016 – Present</h6>
+                    <p>Worked on MyPlan subdomain website (core of their product offering) in back-end capacity as well as created various websites for front-end clients.  Worked with Foundation responsive framework and CodeIgniter PHP framework.  In back-end capacity wrote API of our core offerings for client consumption using Laravel 5.2 framework. Refactored and debugged poorly written legacy code.  Worked with Docker.
+                    </p>
+                </li>
+                <li>
                     <h5>Spear Education</h5>
-                    <h6><a href="http://www.speareducation.com" target="_blank">www.speareducation.com</a> • April 2013 – Present</h6>
+                    <h6><a href="http://www.speareducation.com" target="_blank">www.speareducation.com</a> • April 2013 – March 2016</h6>
                     <p>Worked on various aspects of several company websites.  Wrote controller actions and methods.  Wrote raw SQL queries.  Modeled data in ORM-like Zend syntax.  Performed a wide variety of back-end and some front-end tasks.  Responsible for debugging and refining senior developers' code.  Sites include:</p>
                     <ul>
                         <li>Spear Education, company flagship product.  Developed various enhancements throughout the rest of the Zend Framework 1.12 website. Developed order tracking system for dental learning modules.  Wrote various administrative components to manage consumer-facing assets.  Wrote HTML5/CSS3 markup.  Most code worked synchronously and asynchronously.  Heavy jQuery usage throughout site.  Helped write parts of content management system. Skinned with Twitter Bootstrap.</li>
@@ -67,7 +73,7 @@
                 <li>
                     <h5>Lambda Phoenix Center (Part-time)</h5>
                     <h6><a href="http://www.lambdaphx.org" target="_blank">www.lambdaphx.org</a> • August 2007 – October 2010, September 2012 – Present</h6>
-                    <p> Built a Laravel (PHP/MySQL) website for a local civic organization, using custom Stripe e-commerce system to register members.  Used Foundation for responsive web design to benefit mobile and desktop users. Built custom content management system to manage membership.  Developed user management system.  At its core is a custom, object-oriented sub-framework that drives the rest of the framework.</p>
+                    <p>Built an object-oriented Laravel 5.2 (PHP/MySQL) website for a local civic organization, using custom Stripe e-commerce system to register members.  Used Twitter Bootstrap for responsive design. Built custom content management system to manage membership, articles and events. At its core is a custom, object-oriented sub-framework that drives the rest of the framework. Integrated Twilio SMS service and MailChimp mail API. Currently developing mobile apps for Lambda, using the Ionic 2 framework, which allows a developer to use HTML, CSS and TypeScript to build a native iOS or Android app.</p>
                 </li>
 
                 <li>
@@ -77,15 +83,15 @@
                 </li>
 
                 <li>
-                    <h5> iTheatre Collaborative (Part-time)</h5>
+                    <h5>iTheatre Collaborative (Part-time)</h5>
                     <h6><a href="http://www.itheatreaz.org" target="_blank">www.itheatreaz.org</a> • January 2009 – Present</h6>
-                    <p>Developed object-oriented Laravel website for a local theatre company.  Compiled LESS into CSS stylesheets.  Interface design with Twitter Bootstrap.  Recently ported to Laravel 5.  Hosted on Forge.  Next phase of development will include user accounts and online ticket sales through Stripe.  At its core is a custom, object-oriented sub-framework that drives the rest of the framework.</p>
+                    <p>Developed object-oriented Laravel 5.0 website for a local theatre company.  Compiled LESS into CSS stylesheets.  Interface design with Twitter Bootstrap.  Hosted on Forge. Wrote controller actions and modeled data.  At its core is a custom, object-oriented sub-framework that drives the rest of the framework.</p>
                 </li>
 
                 <li>
                     <h5>Restoration Bodywork and Massage Therapy (Part-time)</h5>
                     <h6><a href="http://www.restorationbodyworkaz.com" target="_blank">www.restorationbodyworkaz.com</a> • March 2009 – Present</h6>
-                    <p>Developed a Laravel website for a local massage therapist using the VueJS, Vue Router and Vue Resource frameworks.  Skinned in Twitter Bootstrap. At its core is a custom, object-oriented sub-framework that drives the rest of the framework.</p>
+                    <p>Developed a Laravel website for a local massage therapist. Skinned in Twitter Bootstrap. At its core is a custom, object-oriented sub-framework that drives the rest of the framework.</p>
                 </li>
             </ul>
         </dd>

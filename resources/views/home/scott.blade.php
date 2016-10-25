@@ -18,7 +18,7 @@
 
             <p>While in school between 2007 and 2010, Scott gained experience by working gratis for non-profit organizations.  This helped him to put together a body of professional work that was awarded Best Portfolio at the Spring 2010 Art Institute portfolio show.  Scott showed true acumen for web design and development while in school, garnering a 3.9 grade-point average.  This accomplishment earned his a spot in the Alpha Beta Kappa honor society.</p>
 
-            <p>Scott graduated with highest honors in 2010 and was immediately recruited by Universal Laser Systems. In 2013, he departed Universal for Spear Education, where he currently works.  He also continues to maintain clients on the side.</p>
+            <p>Scott graduated with highest honors in 2010 and was immediately recruited by Universal Laser Systems. In 2013, he departed Universal for Spear Education, where he currently works.  He also continues to maintain clients on the side.  In 2016, he left Spear for other projects, which he continues to develop.</p>
 
         </div>
 
