@@ -9,7 +9,7 @@ use App\Models\Website;
 use Illuminate\Http\Request;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
-use Illuminate\Validation\Validator;
+use Validator;
 
 class HomeController extends Controller
 {
@@ -72,13 +72,17 @@ class HomeController extends Controller
 
     public function postContact(Request $request, ContactMailer $mailer)
     {
-        $this->validate($request, [
+        $rules = [
             'name' => 'required',
             'email' => 'required|email',
-            'comments' => 'required'
-        ]);
+            'comments' => 'required',
+            'my_name'   => 'honeypot',
+            'my_time'   => 'required|honeytime:5'
+        ];
 
-        $mailer->contact($request->only('name', 'email', 'phone', 'comments'));
+        $validator = Validator::make($request->all(), $rules);
+
+        $mailer->contact($request->only(['name', 'email', 'phone', 'comments']));
 
         Flash::success('Thank you for contacting Piscean Digital.  We will return your email in 2-3 business days.');
 

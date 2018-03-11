@@ -42,6 +42,8 @@
 
             {!! Form::textBox('comments', 'Comments/Question:', Input::old('comments')) !!}
 
+            {!! Honeypot::generate('my_name', 'my_time') !!}
+
             {!! Form::submitButton('Send Email', 'primary') !!}
 
             {!! Form::close() !!}

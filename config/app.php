@@ -146,8 +146,10 @@ return [
         App\Providers\RouteServiceProvider::class,
         Illuminate\Html\HtmlServiceProvider::class,
         Bugsnag\BugsnagLaravel\BugsnagLaravelServiceProvider::class,
+        Msurguy\Honeypot\HoneypotServiceProvider::class,
 
-        App\Providers\FlashServiceProvider::class
+        App\Providers\FlashServiceProvider::class,
+
 
     ],
 
@@ -201,6 +203,7 @@ return [
         'Form'      => Illuminate\Html\FormFacade::class,
         'HTML'      => Illuminate\Html\HtmlFacade::class,
         'Bugsnag'   => Bugsnag\BugsnagLaravel\BugsnagFacade::class,
+        'Honeypot'  => Msurguy\Honeypot\HoneypotFacade::class,
 
         'Flash'     => App\Scotthummel\Notifications\Flash::class,
 
