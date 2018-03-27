@@ -44,7 +44,7 @@
 
             {!! Honeypot::generate('my_name', 'my_time') !!}
 
-            {{--{!! Form::submitButton('Send Email', 'primary') !!}--}}
+            {!! Form::submitButton('Send Email', 'primary') !!}
 
             {!! Form::close() !!}
 
