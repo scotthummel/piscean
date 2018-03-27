@@ -82,7 +82,7 @@ class HomeController extends Controller
 
         $validator = Validator::make($request->all(), $rules);
 
-        $mailer->contact($request->only(['name', 'email', 'phone', 'comments']));
+        //$mailer->contact($request->only(['name', 'email', 'phone', 'comments']));
 
         Flash::success('Thank you for contacting Piscean Digital.  We will return your email in 2-3 business days.');
 
